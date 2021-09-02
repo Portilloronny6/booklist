@@ -12,7 +12,7 @@ Python, JavaScript, HTML, CSS, Git, Unit Testing, Asynchronous programming, Djan
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://en.wikipedia.org/wiki/MIT_License)
 
-# Task List | JavaScript
+# Books list | JavaScript
 
 This project has been created by **Ronny Portillo** in order to be able to store books.
 
